@@ -38,7 +38,7 @@ create table "건축물대장_전유공유면적" (
 	"면적"                  	numeric
 );
 
-drop table "건축물대장_층별개요";
+
 create table "건축물대장_층별개요" (
 	"일련번호"                	numeric,
 	"관리_건축물대장_PK"     	varchar(30),
